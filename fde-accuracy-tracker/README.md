@@ -75,6 +75,12 @@ _Note: To enable full backend persistence, configure a `.env` file with your Fir
 - [ ] **Advanced Filtering**: Date range filters and multi-select categories for the dashboard.
 - [ ] **AI Integration**: Auto-summarize issue descriptions using LLMs.
 - [ ] **Team Collaboration**: Comment threads on specific issues.
+- [] **FDE-personal Accuracy Issue Analysis Agent called baymax** who can analyse the accuracy issues and provide insights and recommendations to imprve accuracy issuses.
+- [] **FDE-personal New Use case Analysis Agent called Fyro** who can analyse the new use cases and provide insights and recommendations for enterprise customers.
+- [] Agent cloner which can clone the agents and create new agents based on the existing agents.
+- [] Environment support  for Cloned Agents to run with improved model version and better prompts
+- [] Place where we have to comeup with new technical solutions 
+- [] Jira integration to create new issues and update existing issues
 
 ## 📄 License
 
